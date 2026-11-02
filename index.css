@@ -17,3 +17,21 @@ button {
     border: none;
     font-weight: bold;
 }
+#delete-btn {
+    background-color: white;
+    border: 1px solid #5f9341;
+    color: #5f9341;
+}
+li a {
+    color: #5f9341;
+}
+ul {
+    margin-top: 20px;
+    margin-left: 0px;
+    padding-left: 0px;
+    list-style-type: none;
+}
+li {
+    margin-top: 5px;
+    list-style-position: outside;
+}
